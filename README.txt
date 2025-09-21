@@ -20,5 +20,4 @@ Il est aussi possible de changer la difficulté de l'IA pour le mode "Joueur con
 Enfin, une option permet de sélectionner le nombre de points qu'il faudra atteindre pour remporter la prochaine partie
 et une autre permet de recommencer la partie avec les mêmes options.
 
-note : la gestion des collisions n'est pas optimale (notamment lorsque la balle atteint une vitesse importante) mais je ne suis 
-       pas parvenu à faire la méthode montrée dans le TP11 :) 
+note : la gestion des collisions n'est pas optimale (notamment lorsque la balle atteint une vitesse importante)
